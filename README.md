@@ -1,6 +1,6 @@
 **🧠 AI-Assisted Fraud Risk Prioritization for Digital Banking
-📌 Project Overview**
 
+📌 **Project Overview**
 Banks process millions of digital transactions daily, but fraud investigation teams can only manually review a limited number of transactions due to time and cost constraints. Reviewing transactions randomly leads to very low fraud detection rates.
 
 This project builds an AI-assisted decision support system that:
@@ -80,6 +80,7 @@ Strategy	                 Fraud Detected in 100 Reviews
 AI Prioritization               	94 fraud cases
 Random Selection	                 0 fraud cases
 
+**You can also run this notebook on Google Colab**: https://colab.research.google.com/drive/1cLgNPtCzRrSRmma1zSMhyve9_foZJjCw
 
 **Key Insights:**
 
